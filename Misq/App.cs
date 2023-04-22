@@ -65,7 +65,7 @@ namespace Misq
 			while (x == null)
 			{
 				x = await check();
-				await Task.Delay(1000);
+				await TaskEx.Delay(1000);
 			}
 
 			var accessToken = x.accessToken.Value;
