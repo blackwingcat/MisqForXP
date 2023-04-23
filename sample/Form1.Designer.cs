@@ -43,7 +43,7 @@
             this.tokenName.Name = "tokenName";
             this.tokenName.Size = new System.Drawing.Size(271, 19);
             this.tokenName.TabIndex = 0;
-            this.tokenName.Text = "rivuDG6ohlkQYUQRslesfGAMhJj51MWq";
+            this.tokenName.Text = "";
             // 
             // messageText
             // 
