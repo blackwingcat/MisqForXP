@@ -18,3 +18,4 @@ user.Request("notes/create", new Dictionary<string, object> {
   { "text", "yee haw!" }
 });
 ```
+※ XP用作ってみたはいいけど、 await が .Net frame work 4.0 で外部ライブラリ経由だと使えない疑惑が出てきた。
